@@ -35,6 +35,6 @@ To get started, first of all create both the HTML and CSS files and then using H
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/Youtube-Page-Frontend/
